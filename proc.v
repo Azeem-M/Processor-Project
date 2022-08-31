@@ -1,4 +1,4 @@
-// from part 1 lab 8
+// Processor Project - Completed on March 28, 2022 //
 
 module proc(DIN, Resetn, Clock, Run, DOUT, ADDR, W);
 // These are the main inputs and outputs for this processor module
