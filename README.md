@@ -12,13 +12,23 @@ Below is a visual representation of the processor showing its many components su
 Moving/copying registers (mov), moving top (mvt), adding (add), subtracting (sub), logical and (and), loading registers (ld), storing into registers (st), and conditional branching (b[cond]). 
 
 Conditional branching is supported for the following condtions: 
+
+
 eq - equal
 
 
 ne - not equal
+
+
 cc - carry clear
+
+
 cs - carry set
+
+
 pl - positive
+
+
 mi - negative
 
 
