@@ -11,7 +11,7 @@ Below is a visual representation of the processor showing its many components su
 ## Instructions Supported
 Moving/copying registers (mov), moving top (mvt), adding (add), subtracting (sub), logical and (and), loading registers (ld), storing into registers (st), and conditional branching (b[cond]). 
 
-Conditional branching is supported for the following condtions: 
+Conditional branching is supported for the following conditions: 
 
 
 eq - equal
