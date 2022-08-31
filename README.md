@@ -2,7 +2,8 @@
 This project is for a 16-bit processor written in Verilog. The processor supports many different instructions. The processor works by utilising a finite-state machine that contains 6 different states. 
 
 ## Visual Representation of Processor
-![image](https://user-images.githubusercontent.com/104869723/187580208-12f6e2c3-0d32-463f-a0cc-b469a859c26f.png)
+
+![image](https://user-images.githubusercontent.com/104869723/187580323-68d0ad20-fb25-4951-a00f-4beeaa544f4d.png)
 
 
 
